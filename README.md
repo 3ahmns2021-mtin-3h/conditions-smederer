@@ -19,6 +19,8 @@ unity
 -
 
 ### Project state: 
+<img src = "Assets/docs/image.PNG" width= "500">
+
 finished
 
 ### Limitations: 
